@@ -1,6 +1,6 @@
 # Meltdown-Analysys-Experiments
 
-This repository Contains reproduction, analysis and commentary for the [meltdown security vulnerability](https://meltdownattack.com/) which allows alien programs to access the memory from other programs, allowing them to access potentially sensitive information.
+This repository Contains reproduction, analysis and commentary for the [meltdown security vulnerability](https://meltdownattack.com/) allowing alien program to access the memory from other programs, allowing them to access potentially sensitive information. For our experiments, we borrowed code from [https://github.com/IAIK/meltdown](https://github.com/IAIK/meltdown)
 
 ![Architecture_Project_Report_pages-to-jpg-0001.jpg](/docs/report/Architecture_Project_Report_pages-to-jpg-0001.jpg)
 ![Architecture_Project_Report_pages-to-jpg-0002.jpg](/docs/report/Architecture_Project_Report_pages-to-jpg-0002.jpg)
