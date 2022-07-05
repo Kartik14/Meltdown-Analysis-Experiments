@@ -1,0 +1,3 @@
+[submodule "meltdown"]
+	path = meltdown
+	url = https://github.com/IAIK/meltdown.git
